@@ -20,6 +20,8 @@ Toutes personnes qui est d'accord avec ces principes est la bienvenue.
 
 N'importe qui peut créer un compte et créer des pages sur ce wiki. Ce site n'enregistre pas votre IP. Si vous ne souhaitez par créer de comptes, vous pouvez utiliser le compte anonyme suivant (retirer les guillemets) : “anonymous”/“long passphrases with fünn¥ ©ħæræ¢ŧæ®ß”
 
+Toutes les pages se trouvent aussi sur [[https://github.com/CryptoCH/cryptofribourg.ch|GitHub]] pour les plus informaticiens d'entre vous :) Ce qui est édité sur GitHub est rapatrié toutes les 10 minutes.
+
 ====== Contact ======
 
 ===== Twitter =====
