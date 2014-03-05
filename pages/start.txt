@@ -22,10 +22,10 @@ N'importe qui peut créer un compte et créer des pages sur ce wiki. Ce site n'e
 
 ====== Contact ======
 
+===== Twitter =====
+
+Suivez nous et poser vos questions sur le compte Twitter : [[https://twitter.com/cryptoch|@CryptoCH]]
+
 ===== Mailing list =====
 
 Une mailing list publique a été créée sur le site http://www.librelist.com . Pour vous inscrire envoyez un mail à l'adresse <cryptoch@librelist.com>. Les archives sont disponible [[http://librelist.com/browser/cryptoch/|ici]].
-
-===== Twitter =====
-
-Vous pouvez aussi suivre et poser des questions sur le compte Twitter : [[https://twitter.com/cryptoch|@CryptoCH]]
