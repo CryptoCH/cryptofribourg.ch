@@ -8,10 +8,14 @@ Une CryptoParty est :
   * libre et gratuite d'accès
   * publique
   * non commercial et non alignée politiquement
-  * contre toute forme de discrimination et d'harcèlement sexuel
+  * contre toutes formes de discrimination et d'harcèlement sexuel
 
 Toutes personnes qui est d'accord avec ces principes est la bienvenue.
 
 ====== Prochaines Dates ======
 
   * Samedi 22 mars, École d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 15h (rez de chaussée) [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]]
+
+====== Editer le wiki ======
+
+N'importe qui peut créer un compte et créer des pages sur ce wiki. Ce site n'enregistre pas votre IP. Si vous ne souhaitez par créer de comptes, vous pouvez utiliser le compte anonyme suivant : “anonymous”/“long passphrases with fünn¥ ©ħæræ¢ŧæ®ß”
