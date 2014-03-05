@@ -1,4 +1,4 @@
-wiki.cryptofribourg.org
-=======================
+cryptofribourg.ch
+=================
 
-Pages du wiki http://cryptofribourg.org
+Pages du wiki http://cryptofribourg.ch
