@@ -1,7 +1,7 @@
 ====== Une CryptoQuoi ?  ======
 
 {{:cp-logo-200x67.png?nolink |}}
-CryptoParty est une initiative mondial et décentralisée pour aider le grand publique à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
+CryptoParty est une initiative mondiale et décentralisée pour aider le grand publique à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
 
 Une CryptoParty est :
 
