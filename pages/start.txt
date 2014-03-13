@@ -1,7 +1,7 @@
 ====== Une CryptoQuoi ?  ======
 
 {{:cp-logo-200x67.png?nolink |}}
-CryptoParty est une initiative mondiale et décentralisée pour aider le grand publique à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
+CryptoParty est une initiative mondiale et décentralisée pour aider le grand public à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
 
 Une CryptoParty est :
 
@@ -14,7 +14,7 @@ Toutes personnes qui est d'accord avec ces principes est la bienvenue.
 
 ====== Prochaines Dates ======
 
-  * Samedi 22 mars, École d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]]
+  * Samedi 22 mars, Ecole d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]]
 
 ====== Editer le wiki ======
 
