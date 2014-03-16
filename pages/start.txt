@@ -14,7 +14,7 @@ Toutes personnes qui est d'accord avec ces principes est la bienvenue.
 
 ====== Prochaines Dates ======
 
-  * Samedi 22 mars, Ecole d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]]
+  * Samedi 22 mars, Ecole d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]]
 
 ====== Editer le wiki ======
 
