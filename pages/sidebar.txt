@@ -1,2 +1,2 @@
-* [[participer|Participer !]]
-* [[organiser|Organiser !]]
+  * [[participer|Participer !]]
+  * [[organiser|Organiser !]]
