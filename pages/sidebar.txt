@@ -1,2 +1,3 @@
-  * [[apprendre|Apprendre !]]
+  * [[participer|Participer !]]
+    * [[session/3|Prochaine CryptoParty]]
   * [[organiser|Organiser !]]
