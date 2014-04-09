@@ -12,13 +12,13 @@ Une CryptoParty est :
 
 Toutes personnes qui est d'accord avec ces principes est la bienvenue.
 
-====== Prochaines Dates ======
-
-  * Samedi 22 mars, Ecole d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]] Entrez par la porte B/C ou C/D
-
 ====== Participer ======
 
 Pour participer il vous suffit de venir avec votre ordinateur portable, voir smartphone (il existe aussi des outils de protection de la vie privée pour smartphone). La CryptoParty est publique et gratuite. 
+
+====== Prochaines Dates ======
+
+  * **Samedi 26 Avril**, à la Fonderie 11 à partir de 16h30, [[session/3|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeR03P?layers=N&m=&way=123442196|OpenStreetMap]].
 
 ====== Editer le wiki ======
 
@@ -35,3 +35,7 @@ Suivez nous et poser vos questions sur le compte Twitter : [[https://twitter.com
 ===== Mailing list =====
 
 Une mailing list publique a été créée sur le site http://www.librelist.com . Pour vous inscrire envoyez un mail à l'adresse <cryptoch@librelist.com>. Les archives sont disponible [[http://librelist.com/browser/cryptoch/|ici]].
+
+====== Dates passées ======
+
+  * Samedi 22 mars, Ecole d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]] Entrez par la porte B/C ou C/D
