@@ -1,1 +1,17 @@
 ====== Aider ! ======
+
+Les CryptoParty sont auto-organisé, et sans vraiment de structures. Tant que des gens seront motivés pour les faires exister elles auront lieu :)
+
+===== Comment aider =====
+
+Il y a plein de façon d'aider:
+
+  * Partager l'information et l'existance des CryptoParty partout où vous allez !
+  * Venir aider lors des séances.
+  * Aider à  [[aider#Traduction|traduire]] le site principal des CryptoParty
+
+===== Aider durant les séances =====
+
+===== Traduction =====
+
+Le site principal des CryptoParty est http://www.cryptoparty.in/, il contient beaucoup de documentation en anglais et il serait interessant d'en traduire une bonne partie :)
