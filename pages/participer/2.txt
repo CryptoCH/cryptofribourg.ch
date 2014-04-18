@@ -13,4 +13,4 @@ Si vous souhaitez aider lors de cette CryptoParty, que ça soit par votre prése
 
 Si vous proposez un atelier/présentation, modifier la liste suivante avec votre nom/pseudo et ce que vous proposez. Vous pouvez proposer plusieurs sujet sans problème :)
 
-  * Mayeu : Introduction (présentation), Utilisation de Tor (atelier)
+  * Mayeu : [[https://github.com/CryptoCH/presentation/tree/master/introduction|Introduction]] (présentation), [[https://github.com/CryptoCH/presentation/tree/master/tor|Utilisation de Tor]] (atelier)
