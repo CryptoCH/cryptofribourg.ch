@@ -21,6 +21,6 @@ Durant les séances vous pouvez venir pour aider les autres participants, venir 
 
 Sur la page de la [[participer/2|prochaine séances]] vous trouverez des informations spécifiques à la prochaine séance, et la possibilité de déclarer votre (futur) aide.
 
-===== Traduction =====
+===== Traductions =====
 
-Le site principal des CryptoParty est http://www.cryptoparty.in/, il contient beaucoup de documentation en anglais et il serait interessant d'en traduire une bonne partie :)
+Le site principal des CryptoParty est http://www.cryptoparty.in/, il contient beaucoup de documentations en anglais et il serait interessant d'en traduire une bonne partie :)
