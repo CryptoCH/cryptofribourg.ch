@@ -4,12 +4,12 @@
 
 Séances qui a eu lieu à l'École d'Ingénieur, une dizaine de personnes en tout. Présentation réalisée :
 
-* Introduction
-* Mot de passe et gestion de mot de passe
+  * Introduction
+  * Mot de passe et gestion de mot de passe
 
 ===== #0 =====
 
 Séances qui a eu lieu à l'École d'Ingénieur, cinq personnes en tout. Présentation réalisée :
 
-* Introduction
-* Tor
+  * Introduction
+  * Tor
