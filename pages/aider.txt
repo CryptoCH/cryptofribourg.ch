@@ -7,7 +7,7 @@ Les CryptoParty sont auto-organisé, et sans vraiment de structures. Tant que de
 Il y a plein de façon d'aider:
 
   * Partager l'information et l'existance des CryptoParty partout où vous allez !
-  * [aider#trouver_des_lieux|Aider à trouver des lieux]]
+  * [[aider#trouver_des_lieux|Aider à trouver des lieux]]
   * [[aider#durant_les_seances|Venir aider]] lors des séances
   * Aider à  [[aider#Traduction|traduire]] le site principal des CryptoParty
 
