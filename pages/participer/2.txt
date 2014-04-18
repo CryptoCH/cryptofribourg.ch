@@ -9,8 +9,8 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
 
 ===== Aider =====
 
-Si vous souhaitez aider lors de cette CryptoParty, que ça soit par votre présence, ou en proposant une présentation et/ou atelier, l'idéal serait de vous déclarez à l'avance ici : http://framadate.org/fl6swlnqa1y92y5t
+**Si vous souhaitez aider lors de cette CryptoParty**, que ça soit par votre présence, ou en proposant une présentation et/ou atelier, **l'idéal serait de vous déclarez à l'avance ici :** http://framadate.org/fl6swlnqa1y92y5t
 
-Si vous proposez un atelier/présentation, modifier la liste suivante avec votre nom/pseudo et ce que vous proposez. Vous pouvez proposer plusieurs sujet sans problème :)
+Si vous proposez un atelier/présentation, modifier la liste suivante avec votre nom/pseudo et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :)
 
   * Mayeu : [[https://github.com/CryptoCH/presentation/tree/master/introduction|Introduction]] (présentation), [[https://github.com/CryptoCH/presentation/tree/master/tor|Utilisation de Tor]] (atelier)
