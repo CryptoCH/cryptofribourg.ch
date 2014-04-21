@@ -18,6 +18,6 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
 Si vous proposez un atelier/présentation, modifier la liste suivante avec votre nom/pseudo et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :)
 
   * Mayeu : [[https://github.com/CryptoCH/presentation/tree/master/introduction|Introduction]] (présentation), [[https://github.com/CryptoCH/presentation/tree/master/tor|Utilisation de Tor]] (atelier)
-  * Tengu : présentation du site/projet [[https://www.ethack.org|EthACK]].
+  * [[https://www.twitter.com/ethack_org/|EthACK]] : présentation du site/projet [[https://www.ethack.org|EthACK]].
 
 Si vous souhaitez aider à la mise en place de l'événement, rendez-vous 30 à 45 minutes avant le début :)
