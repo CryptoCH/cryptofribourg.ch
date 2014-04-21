@@ -19,3 +19,5 @@ Si vous proposez un atelier/présentation, modifier la liste suivante avec votre
 
   * Mayeu : [[https://github.com/CryptoCH/presentation/tree/master/introduction|Introduction]] (présentation), [[https://github.com/CryptoCH/presentation/tree/master/tor|Utilisation de Tor]] (atelier)
   * Tengu : présentation du site/projet [[https://www.ethack.org|EthACK]].
+
+Si vous souhaitez aider à la mise en place de l'événement, rendez-vous 30 à 45 minutes avant le début :)
