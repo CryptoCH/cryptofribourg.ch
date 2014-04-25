@@ -7,14 +7,14 @@ Une CryptoParty est :
 
   * libre et gratuite d'accès
   * publique
-  * non commercial et non alignée politiquement
-  * contre toutes formes de discrimination et d'harcèlement sexuel
+  * non commerciale et non alignée politiquement
+  * contre toutes formes de discrimination et de harcèlement sexuel
 
-Toutes personnes qui est d'accord avec ces principes est la bienvenue.
+Toute personne qui est d'accord avec ces principes est la bienvenue.
 
 ====== Participer ======
 
-Pour participer il vous suffit de venir avec votre ordinateur portable, voir smartphone (il existe aussi des outils de protection de la vie privée pour smartphone). La CryptoParty est publique et gratuite. 
+Pour participer, il vous suffit de venir avec votre ordinateur portable, voir smartphone (il existe aussi des outils de protection de la vie privée pour smartphone). La CryptoParty est publique et gratuite. 
 
 ====== Prochaines Dates ======
 
@@ -30,12 +30,12 @@ Toutes les pages se trouvent aussi sur [[https://github.com/CryptoCH/cryptofribo
 
 ===== Twitter =====
 
-Suivez nous et poser vos questions sur le compte Twitter : [[https://twitter.com/cryptoch|@CryptoCH]]
+Suivez-nous et poser vos questions sur le compte Twitter : [[https://twitter.com/cryptoch|@CryptoCH]]
 
 ===== Forum & Mailing list =====
 
-Un forum et une mailing list publiques sont disponible à l'adresse [[https://list.cryptofribourg.ch/]].
+Un forum et une mailing list publiques sont disponibles à l'adresse [[https://list.cryptofribourg.ch/]].
 
 ====== Dates passées ======
 
-  * Samedi 22 mars, Ecole d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]] Entrez par la porte B/C ou C/D
+  * Samedi 22 mars, École d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) - Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]] Entrez par la porte B/C ou C/D
