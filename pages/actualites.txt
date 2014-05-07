@@ -1,0 +1,12 @@
+====== Actualités  ======
+Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurité et la protection des données.
+
+==== 06.05.2014 ====
+[[http://www.nextinpact.com/news/87405-duckduckgo-nouveau-look-et-bientot-5-millions-requetes-par-jour.htm|DuckDuckGo : un nouveau look et bientôt 5 millions de requêtes par jour]]
+
+==== 02.05.2014 ====
+* [[http://www.nextinpact.com/news/87338-un-juge-americain-exige-microsoft-donnees-situees-en-irlande.htm|Un juge américain exige de Microsoft des données situées en Irlande]]
+* [[http://www.nextinpact.com/news/87336-yahoo-ne-prend-plus-en-compte-fonction-do-not-track-navigateurs.htm|Yahoo ne prend plus en compte la fonction Do Not Track des navigateurs]]
+
+==== 30.04.2014  ====
+* [[http://www.nextinpact.com/news/87313-sur-ordinateurs-skype-stocke-en-clair-donnees-personnelles.htm|Sur les ordinateurs, Skype stocke en clair les données personnelles]]
