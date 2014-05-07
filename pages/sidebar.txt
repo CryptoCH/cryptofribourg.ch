@@ -2,3 +2,4 @@
     * [[participer/2|Prochaine CryptoParty]]
     * [[seancespassees/start|Séances passées]]
   * [[aider|Aider !]]
+  * [[actualites|Actualités]]
