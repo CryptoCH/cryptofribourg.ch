@@ -1,15 +1,26 @@
 ====== Séances passées ======
 
+===== #2 =====
+
+[[participer/2|Séance qui a eu lieu à la Fonderie 11]], une quinzaine de personnes en tout. Présentation réalisées:
+
+  * Introduction
+  * Présentation d'EthACK
+  * Sécurisation du BIOS/UEFI d'ordinateur portable
+  * Mot de Passe
+  * Tor
+  * CryptCA
+
 ===== #1 =====
 
-Séances qui a eu lieu à l'École d'Ingénieur, une dizaine de personnes en tout. Présentation réalisée :
+Séance qui a eu lieu à l'École d'Ingénieur, une dizaine de personnes en tout. Présentation réalisée :
 
   * Introduction
   * Mot de passe et gestion de mot de passe
 
 ===== #0 =====
 
-Séances qui a eu lieu à l'École d'Ingénieur, cinq personnes en tout. Présentation réalisée :
+Séance qui a eu lieu à l'École d'Ingénieur, cinq personnes en tout. Présentation réalisée :
 
   * Introduction
   * Tor
