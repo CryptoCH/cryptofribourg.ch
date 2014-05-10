@@ -1,8 +1,12 @@
 ====== Actualités  ======
 Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurité et la protection des données.
 
+==== 09.05.2014 ====
+  * [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
+
+
 ==== 06.05.2014 ====
-[[http://www.nextinpact.com/news/87405-duckduckgo-nouveau-look-et-bientot-5-millions-requetes-par-jour.htm|DuckDuckGo : un nouveau look et bientôt 5 millions de requêtes par jour]]
+  * [[http://www.nextinpact.com/news/87405-duckduckgo-nouveau-look-et-bientot-5-millions-requetes-par-jour.htm|DuckDuckGo : un nouveau look et bientôt 5 millions de requêtes par jour]]
 
 ==== 02.05.2014 ====
   * [[http://www.nextinpact.com/news/87338-un-juge-americain-exige-microsoft-donnees-situees-en-irlande.htm|Un juge américain exige de Microsoft des données situées en Irlande]]
