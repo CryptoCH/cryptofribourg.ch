@@ -7,7 +7,6 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 ==== 15.05.2014 ====
   * [[http://www.nextinpact.com/news/87573-le-projet-tor-fete-10-ans-collecte-dinformations-pour-son-annuaire.htm|Le projet Tor fête 10 ans de collecte d'informations pour son annuaire]]
-  * [[http://www.nextinpact.com/news/87553-mozilla-jette-eponge-firefox-gerera-drm-des-cette-annee.htm|Le projet Tor fête 10 ans de collecte d'informations pour son annuaire]]
   
 ==== 14.05.2014 ====
   * [[http://www.nextinpact.com/news/87527-la-nsa-a-modifie-routeurs-americains-avant-leur-vente-a-etranger.htm|La NSA a modifié des routeurs américains avant leur vente à l'étranger]]
