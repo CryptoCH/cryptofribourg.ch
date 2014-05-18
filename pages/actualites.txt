@@ -1,8 +1,25 @@
-====== Actualités  ======
+﻿====== Actualités  ======
 Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurité et la protection des données.
 
+==== 16.05.2014 ====
+  * [[http://www.developpez.com/actu/71308/-No-Place-To-Hide-le-livre-sur-les-revelations-autour-des-programmes-de-surveillance-offre-la-perspective-d-un-acteur-central-de-cette-affaire/|« No Place To Hide », le livre sur les révélations autour des programmes de surveillance]]
+  * [[http://www.nextinpact.com/news/87601-l-anonymat-sur-internet-ca-n-existe-pas-sur-reseau-tor-comme-ailleurs.htm|« L’anonymat sur internet, ça n’existe pas », sur le réseau Tor comme ailleurs]]
+
+==== 15.05.2014 ====
+  * [[http://www.nextinpact.com/news/87573-le-projet-tor-fete-10-ans-collecte-dinformations-pour-son-annuaire.htm|Le projet Tor fête 10 ans de collecte d'informations pour son annuaire]]
+  * [[http://www.nextinpact.com/news/87553-mozilla-jette-eponge-firefox-gerera-drm-des-cette-annee.htm|Le projet Tor fête 10 ans de collecte d'informations pour son annuaire]]
+  
+==== 14.05.2014 ====
+  * [[http://www.nextinpact.com/news/87527-la-nsa-a-modifie-routeurs-americains-avant-leur-vente-a-etranger.htm|La NSA a modifié des routeurs américains avant leur vente à l'étranger]]
+
+==== 12.05.2014 ====
+  * [[http://www.nextinpact.com/news/87487-avec-cryptocat-chiffrez-vos-conversations-privees-sur-facebook.htm| Avec Cryptocat, chiffrez vos conversations privées sur Facebook]]
+  
+==== 09.05.2014 ====
+  * [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
+
 ==== 06.05.2014 ====
-[[http://www.nextinpact.com/news/87405-duckduckgo-nouveau-look-et-bientot-5-millions-requetes-par-jour.htm|DuckDuckGo : un nouveau look et bientôt 5 millions de requêtes par jour]]
+  * [[http://www.nextinpact.com/news/87405-duckduckgo-nouveau-look-et-bientot-5-millions-requetes-par-jour.htm|DuckDuckGo : un nouveau look et bientôt 5 millions de requêtes par jour]]
 
 ==== 02.05.2014 ====
   * [[http://www.nextinpact.com/news/87338-un-juge-americain-exige-microsoft-donnees-situees-en-irlande.htm|Un juge américain exige de Microsoft des données situées en Irlande]]
