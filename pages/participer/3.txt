@@ -19,3 +19,4 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
 **Si vous souhaitez proposez un atelier ou une présentation**, vous pouvez vous inclure dans la liste suivante avec votre nom/pseudo et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :)
 
   * [[https://twitter.com/Mayeu|Mayeu]] : [[https://github.com/CryptoCH/presentation/tree/master/introduction|Introduction]] (présentation), [[https://github.com/CryptoCH/presentation/tree/master/tor|Utilisation de Tor]] (atelier)
+  * [[https://twitter.com/EthACK_org|EthACK]] : bonnes pratiques pour protéger son mobile (discussion + présentation de quelques outils)
