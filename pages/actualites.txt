@@ -1,49 +1,82 @@
 ====== Actualités  ======
 Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurité et la protection des données.
 
+=== Acions, conséquences ===
 
 ==== 23.05.2014 ====
   * [[http://www.nextinpact.com/news/87706-un-selfie-dans-l-isoloir-ne-justifie-pas-forcement-l-annulation-scrutin.htm|Un « selfie » dans l’isoloir ne justifie pas forcément l’annulation du scrutin]]
-  * [[http://www.nextinpact.com/news/87718-wikileaks-revele-nom-pays-espionne-par-nsa-afghanistan.htm|Wikileaks révèle le nom du pays espionné par la NSA : l'Afghanistan]]
-  * [[http://www.nextinpact.com/news/87707-microsoft-soppose-avec-succes-a-requete-fbi.htm|Microsoft s'oppose avec succès à une requête du FBI]]
 
 ==== 22.05.2014 ====
-  * [[http://www.nextinpact.com/news/82101-facebook-facilite-partage-prive-incite-au-vote-mais-veux-vous-ecouter.htm|Facebook facilite le partage privé, incite au vote, mais veut vous écouter]]
   * [[http://www.nextinpact.com/news/87657-licencie-pour-avoir-traite-son-patron-guignol-sur-facebook.htm|Licencié pour avoir traité son patron de « guignol » sur Facebook]]
-
-==== 21.05.2014 ====
-  * [[http://www.nextinpact.com/news/87399-facebook-anti-virus-curiosite-vos-amis-pub-video-et-accord-avec-publicis.htm|Facebook : anti-virus, curiosité de vos amis, pub vidéo et accord avec Publicis]]
-
-
-==== 20.05.2014 ====
-  * [[http://www.developpez.com/actu/71389/Meme-le-reseau-Tor-n-echapperait-pas-a-la-surveillance-de-la-NSA-et-du-GCHQ-selon-un-expert-en-securite/|Même le réseau Tor n'échapperait pas à la surveillance de la NSA et du GCHQ]]
-  * [[http://www.developpez.com/actu/71373/Droit-a-l-oubli-Google-travaille-sur-un-outil-automatise-pour-les-internautes-qui-souhaiteront-disparaitre-de-ses-resultats-de-recherche/|Droit à l'oubli : Google travaille sur un outil automatisé pour les internautes]]
 
 ==== 19.05.2014 ====
   * [[http://www.nextinpact.com/news/87608-didier-deschamps-poursuit-compagne-samir-nasri-pour-son-tweet.htm|Didier Deschamps poursuit la compagne de Samir Nasri pour son tweet]]
 
+
+
+=== Outils ===
+
 ==== 16.05.2014 ====
-  * [[http://www.developpez.com/actu/71308/-No-Place-To-Hide-le-livre-sur-les-revelations-autour-des-programmes-de-surveillance-offre-la-perspective-d-un-acteur-central-de-cette-affaire/|« No Place To Hide », le livre sur les révélations autour des programmes de surveillance]]
   * [[http://www.nextinpact.com/news/87601-l-anonymat-sur-internet-ca-n-existe-pas-sur-reseau-tor-comme-ailleurs.htm|« L’anonymat sur internet, ça n’existe pas », sur le réseau Tor comme ailleurs]]
 
 ==== 15.05.2014 ====
   * [[http://www.nextinpact.com/news/87573-le-projet-tor-fete-10-ans-collecte-dinformations-pour-son-annuaire.htm|Le projet Tor fête 10 ans de collecte d'informations pour son annuaire]]
-  
-==== 14.05.2014 ====
-  * [[http://www.nextinpact.com/news/87527-la-nsa-a-modifie-routeurs-americains-avant-leur-vente-a-etranger.htm|La NSA a modifié des routeurs américains avant leur vente à l'étranger]]
 
 ==== 12.05.2014 ====
   * [[http://www.nextinpact.com/news/87487-avec-cryptocat-chiffrez-vos-conversations-privees-sur-facebook.htm| Avec Cryptocat, chiffrez vos conversations privées sur Facebook]]
-  
-==== 09.05.2014 ====
-  * [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
 
 ==== 06.05.2014 ====
   * [[http://www.nextinpact.com/news/87405-duckduckgo-nouveau-look-et-bientot-5-millions-requetes-par-jour.htm|DuckDuckGo : un nouveau look et bientôt 5 millions de requêtes par jour]]
+
+==== 30.04.2014  ====
+  * [[http://www.nextinpact.com/news/87313-sur-ordinateurs-skype-stocke-en-clair-donnees-personnelles.htm|Sur les ordinateurs, Skype stocke en clair les données personnelles]]
+
+
+
+=== Méga corporations ===
+
+==== 23.05.2014 ====
+  * [[http://www.nextinpact.com/news/87707-microsoft-soppose-avec-succes-a-requete-fbi.htm|Microsoft s'oppose avec succès à une requête du FBI]]
+
+==== 22.05.2014 ====
+  * [[http://www.nextinpact.com/news/82101-facebook-facilite-partage-prive-incite-au-vote-mais-veux-vous-ecouter.htm|Facebook facilite le partage privé, incite au vote, mais veut vous écouter]]
+
+==== 21.05.2014 ====
+  * [[http://www.nextinpact.com/news/87399-facebook-anti-virus-curiosite-vos-amis-pub-video-et-accord-avec-publicis.htm|Facebook : anti-virus, curiosité de vos amis, pub vidéo et accord avec Publicis]]
+
+==== 20.05.2014 ====
+  * [[http://www.developpez.com/actu/71373/Droit-a-l-oubli-Google-travaille-sur-un-outil-automatise-pour-les-internautes-qui-souhaiteront-disparaitre-de-ses-resultats-de-recherche/|Droit à l'oubli : Google travaille sur un outil automatisé pour les internautes]]
 
 ==== 02.05.2014 ====
   * [[http://www.nextinpact.com/news/87338-un-juge-americain-exige-microsoft-donnees-situees-en-irlande.htm|Un juge américain exige de Microsoft des données situées en Irlande]]
   * [[http://www.nextinpact.com/news/87336-yahoo-ne-prend-plus-en-compte-fonction-do-not-track-navigateurs.htm|Yahoo ne prend plus en compte la fonction Do Not Track des navigateurs]]
 
-==== 30.04.2014  ====
-  * [[http://www.nextinpact.com/news/87313-sur-ordinateurs-skype-stocke-en-clair-donnees-personnelles.htm|Sur les ordinateurs, Skype stocke en clair les données personnelles]]
+
+
+
+=== NSA ===
+
+==== 23.05.2014 ====
+  * [[http://www.nextinpact.com/news/87718-wikileaks-revele-nom-pays-espionne-par-nsa-afghanistan.htm|Wikileaks révèle le nom du pays espionné par la NSA : l'Afghanistan]]
+
+==== 20.05.2014 ====
+  * [[http://www.developpez.com/actu/71389/Meme-le-reseau-Tor-n-echapperait-pas-a-la-surveillance-de-la-NSA-et-du-GCHQ-selon-un-expert-en-securite/|Même le réseau Tor n'échapperait pas à la surveillance de la NSA et du GCHQ]]
+
+==== 16.05.2014 ====
+  * [[http://www.developpez.com/actu/71308/-No-Place-To-Hide-le-livre-sur-les-revelations-autour-des-programmes-de-surveillance-offre-la-perspective-d-un-acteur-central-de-cette-affaire/|« No Place To Hide », le livre sur les révélations autour des programmes de surveillance]]
+
+==== 14.05.2014 ====
+  * [[http://www.nextinpact.com/news/87527-la-nsa-a-modifie-routeurs-americains-avant-leur-vente-a-etranger.htm|La NSA a modifié des routeurs américains avant leur vente à l'étranger]]
+
+
+
+=== Evénements ===
+  
+==== 09.05.2014 ====
+  * [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
+
+
+
+
+
+
