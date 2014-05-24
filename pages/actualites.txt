@@ -1,7 +1,7 @@
 ====== Actualités  ======
 Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurité et la protection des données.
 
-=== Acions, conséquences ===
+===== Acions, conséquences =====
 
 ==== 23.05.2014 ====
   * [[http://www.nextinpact.com/news/87706-un-selfie-dans-l-isoloir-ne-justifie-pas-forcement-l-annulation-scrutin.htm|Un « selfie » dans l’isoloir ne justifie pas forcément l’annulation du scrutin]]
@@ -14,7 +14,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 
 
-=== Outils ===
+===== Outils =====
 
 ==== 16.05.2014 ====
   * [[http://www.nextinpact.com/news/87601-l-anonymat-sur-internet-ca-n-existe-pas-sur-reseau-tor-comme-ailleurs.htm|« L’anonymat sur internet, ça n’existe pas », sur le réseau Tor comme ailleurs]]
@@ -33,7 +33,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 
 
-=== Méga corporations ===
+===== Méga corporations =====
 
 ==== 23.05.2014 ====
   * [[http://www.nextinpact.com/news/87707-microsoft-soppose-avec-succes-a-requete-fbi.htm|Microsoft s'oppose avec succès à une requête du FBI]]
@@ -54,7 +54,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 
 
-=== NSA ===
+===== NSA =====
 
 ==== 23.05.2014 ====
   * [[http://www.nextinpact.com/news/87718-wikileaks-revele-nom-pays-espionne-par-nsa-afghanistan.htm|Wikileaks révèle le nom du pays espionné par la NSA : l'Afghanistan]]
@@ -70,7 +70,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 
 
-=== Evénements ===
+===== Evénements =====
   
 ==== 09.05.2014 ====
   * [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
