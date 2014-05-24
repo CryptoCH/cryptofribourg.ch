@@ -20,3 +20,4 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
 
   * [[https://twitter.com/Mayeu|Mayeu]] : [[https://github.com/CryptoCH/presentation/tree/master/introduction|Introduction]] (présentation), [[https://github.com/CryptoCH/presentation/tree/master/tor|Utilisation de Tor]] (atelier)
   * [[https://twitter.com/EthACK_org|EthACK]] : bonnes pratiques pour protéger son mobile (discussion + présentation de quelques outils)
+  * paoesco : L’actualité de la vie privée
