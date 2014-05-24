@@ -1,7 +1,7 @@
 ====== Actualités  ======
 Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurité et la protection des données.
 
-===== Acions, conséquences =====
+===== Actions, conséquences =====
 
 ==== 23.05.2014 ====
   * [[http://www.nextinpact.com/news/87706-un-selfie-dans-l-isoloir-ne-justifie-pas-forcement-l-annulation-scrutin.htm|Un « selfie » dans l’isoloir ne justifie pas forcément l’annulation du scrutin]]
@@ -11,8 +11,6 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 ==== 19.05.2014 ====
   * [[http://www.nextinpact.com/news/87608-didier-deschamps-poursuit-compagne-samir-nasri-pour-son-tweet.htm|Didier Deschamps poursuit la compagne de Samir Nasri pour son tweet]]
-
-
 
 ===== Outils =====
 
@@ -30,8 +28,6 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 ==== 30.04.2014  ====
   * [[http://www.nextinpact.com/news/87313-sur-ordinateurs-skype-stocke-en-clair-donnees-personnelles.htm|Sur les ordinateurs, Skype stocke en clair les données personnelles]]
-
-
 
 ===== Méga corporations =====
 
@@ -51,9 +47,6 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
   * [[http://www.nextinpact.com/news/87338-un-juge-americain-exige-microsoft-donnees-situees-en-irlande.htm|Un juge américain exige de Microsoft des données situées en Irlande]]
   * [[http://www.nextinpact.com/news/87336-yahoo-ne-prend-plus-en-compte-fonction-do-not-track-navigateurs.htm|Yahoo ne prend plus en compte la fonction Do Not Track des navigateurs]]
 
-
-
-
 ===== NSA =====
 
 ==== 23.05.2014 ====
@@ -68,15 +61,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 ==== 14.05.2014 ====
   * [[http://www.nextinpact.com/news/87527-la-nsa-a-modifie-routeurs-americains-avant-leur-vente-a-etranger.htm|La NSA a modifié des routeurs américains avant leur vente à l'étranger]]
 
-
-
 ===== Evénements =====
   
 ==== 09.05.2014 ====
   * [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
-
-
-
-
-
-
