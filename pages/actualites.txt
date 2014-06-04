@@ -9,6 +9,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 ===== Outils =====
 
+  * [[http://www.wired.com/2014/06/nsa-bug-iphone|**04.06.2014** Utiliser le mode DFU pour eviter attaques sur le baseband de iPhone]]
   * [[http://www.nextinpact.com/news/87601-l-anonymat-sur-internet-ca-n-existe-pas-sur-reseau-tor-comme-ailleurs.htm|**16.05.2014** « L’anonymat sur internet, ça n’existe pas », sur le réseau Tor comme ailleurs]]
   * [[http://www.nextinpact.com/news/87573-le-projet-tor-fete-10-ans-collecte-dinformations-pour-son-annuaire.htm|**15.05.2014** Le projet Tor fête 10 ans de collecte d'informations pour son annuaire]]
   * [[http://www.nextinpact.com/news/87487-avec-cryptocat-chiffrez-vos-conversations-privees-sur-facebook.htm|**12.05.2014** Avec Cryptocat, chiffrez vos conversations privées sur Facebook]]
