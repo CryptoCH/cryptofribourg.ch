@@ -22,4 +22,115 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
   * [[https://twitter.com/EthACK_org|EthACK]] : bonnes pratiques pour protéger son mobile (discussion + présentation de quelques outils)
   * [[https://twitter.com/pao_esco|paoesco]] : L’actualité de la vie privée
 
-Pendant la séance, vous pouvez notez vos remarques, commentaires ou [[http://lite4.framapad.org/p/4Smo2Impod|sur le document partagé Framapad]].
+Pendant la séance, vous pouvez notez vos remarques, commentaires ou [[http://lite4.framapad.org/p/4Smo2Impod|sur le document partagé Framapad]]. Une copie est disponible juste après
+
+===== Note de Séance =====
+
+
+==== Interactive visualisation of data retention in Switzerland: ====
+[[https://www.digitale-gesellschaft.ch/2014/04/27/the-life-of-national-councillor-balthasar-glaettli-under-surveillance-interactive-visualisation-of-data-retention-in-switzerland/]]
+
+
+==== Extensions pour Firefox ====
+
+En attendant une publication officielle avec les sources, le temps que je nettoie et adapte le code, la présentation est disponible sur [[http://www.daoro.net/pistage]]
+
+Menu > Module Complémentaire pour afficher tout les modules
+
+  *  Bloqueurs de pub car la pub est ciblée, et donc traque l'utilisateur
+    * Adblock Edge [[https://addons.mozilla.org/fr/firefox/addon/adblock-edge/?src=search]]
+  * Beef Taco (potentiellement plus maintenu -- alternative: Ghostery?) 
+    * Ghostery est plus une alternative à Disconnect, et n'est pas open source, a quelque ressemblance avec Adblock (est gentil avec certaines boites/pubs/tracking)
+  * Better Privacy (suppression des cookies flash)
+  * Disconnect
+  * HTTPS Everywhere <- Must have !
+    * [[https://www.eff.org/https-everywhere]]
+  * Change referer (alternative: smart referer %%//%% referrer-control)
+    * [[https://addons.mozilla.org/en-US/firefox/addon/smart-referer/]]
+    * [[https://addons.mozilla.org/en-US/firefox/addon/referrer-control/]]
+  * NoScript (pas vraiment recommandé car difficile à prendre en main pour des utilisateurs n'ayant pas de grandes compétences techniques)
+  * Flashblock ? (pas nécessaire, il suffit de désactiver les extensions)
+  * Lightbeam (montre tous les sites contactés indirectement)
+  * Panopticlick (fingerprint du browser)
+  * **ajouts au delà de la présentation** (avec votre avis, si possible):
+    * Random Agent Spoofer (te fait passer pour un autre navigateur sur un autre OS)
+      * C'est interessant, il évite les agents mobile ? (éviter de ce retrouver avec un site taillé pour itruc ou sambidule) -- non, pas par défaut,  mais tu peux décider de ne garder que des navigateurs desktops.
+    * Redirect Cleaner
+    * IP Flood
+    * [[https://flagfox.wordpress.com/]] -- informatif mais n'aide pas contre le pistage
+    * RequestPolicy: [[https://www.requestpolicy.com/]]
+
+==== DNS ====
+  * OpenNIC : [[http://www.opennicproject.org/]]
+  * DNSCrypt : [[http://dnscrypt.org/]]
+  * "Zensurfreier DNS-Server" de digitalcourage.de : [[http://digitalcourage.de/support/zensurfreier-dns-server]]
+
+==== Sécurité des Smartphones ====
+Les slides : [[https://ethack.org/static/docs/fr_mobile-security.pdf]]
+  * OpenBTS, projet d'antenne Open Source : [[https://en.wikipedia.org/wiki/OpenBTS]]
+  * GSM Security Map: [[http://gsm]]
+  * map.org/ : définit par pays la sécurité des fournisseurs d'accès GSM autour des variables de personnification, de tracking et d'interception (créateurs: [[https://srlabs.de/gsmmap/)]]
+  * Ne vous enregistrez pas auprès de Google ! (n'activez pas le compte Google)
+  * Si possible, utilisez une ROM (système d'exploitation) différente et libre, comme par exemple [[http://www.cyanogenmod.org]]
+  * Alternative libre au GooglePlay : [[http://www.f-droid.org]]
+  * **Avantages des ROMS alternatives** : plus de contrôle
+  * **Inconvénients** : difficile à installer, garantie, risque de "briquage"
+  * Bonnes pratiques : verrouiller l'écran, chiffrer ses données (p.ex. avec Android 4.x depuis les paramètres > sécurité), désactiver le superflu
+  * Contrôlez les permissions de vos apps ==> pourquoi la prise de note peut-elle envoyer des sms et accéder à vos contacts ?
+
+Entreprise de retroengineering qui vend des solutions pour ouvrir et lire des telephones portables : Cellebrite [[http://www.cellebrite.com/fr/]]
+
+
+==== Arguments anti "oui mais j'ai rien à cacher" ====
+  * donc je ne peux rien te confier
+  * et le dossier médical ?
+  * **ok, alors passe moi ton téléphone portable ou ton mot de passe Facebook**
+  * éviter le data-mining (collecte de masse d'informations)
+  * curieux de voir la réaction du Crédit Suisse ;)
+  * alors tu vis avec la perversion de la présomption d'innocence
+  * tu **ne sais pas** ce que tu as à cacher. L'Histoire nous montre comment des "culpabilités" peuvent être construites (a posteriori), et l'Etat de droit est une construction fragile... Donc, si par ton attitude et celle de tous ceux qui pensent comme toi, tu laisses une infrastructure de surveillance se mettre en place, qu'elle soit publique ou privée, tu seras désolé quand il sera trop tard et qu'elle sera exploitée directement contre toi par un nouveau régime sans Etat de droit. Ce n'est pas comme s'il n'y a jamais eu de précédent, et le risque est d'autant plus grand aujourd'hui avec Internet.
+  * la vie privée est un **droit fondamental** inscrit dans de **multiples conventions internationales** (voir [[https://ethack.org/article/37/privacy_is_a_human_right)]].
+  * crois-tu que seuls les criminels ont des rideaux chez eux?
+  * tu es menacé par des criminels actifs dans le domaine de la **personification**. Moins tu te protèges et plus tu en dis (sur internet), plus tu risques de devenir une victime intéressante pour eux.
+  * tu contribues par ton attitude à un amoindrissement de la conscience générale vis-à-vis de la sécurité des données personnelles, ce qui nuit à tout le monde. Si les entreprises qui produisent des solutions liées aux données personnelles ne sentent pas un intérêt de leurs clients à ce sujet, elles n'y feront plus attention.
+
+En tant que personnes informées, ne pas oublier non plus de faire l'effort d'en faire un peu plus pour aider nos proches et amis, ou leur préconfigurer certains produits.
+"Ma mère a plus de 70 ans et aucun background technique, et elle utilise GPG. Alors ne viens pas m'expliquer que tu n'y arriveras pas. :-)"
+
+**311.0 Code pénal suisse**
+
+Art. 179novies1
+
+  * Soustraction de données personnelles
+  * Celui  qui aura soustrait d'un fichier des données personnelles sensibles ou  des profils de la personnalité qui ne sont pas librement accessibles  sera, sur plainte, puni d'une peine privative de liberté de trois ans au  plus ou d'une peine pécuniaire.
+
+source: [[http://www.admin.ch/opc/fr/classified-compilation/19370083/index.html]]
+
+==== Snowden Leaks: La technologie qui a rendu possible les leaks. ====
+
+Coïncidence d'événements à Hawaï:  Spring Break of Code ([[https://whispersystems.org/blog/spring-break-of-code/)]], Jake Appelbaum Hawaii aussi, Cryptoparty organisé par Snowden ( [[http://www.wired.com/2014/05/snowden-cryptoparty/]] | [[http://besva.de/mirror-cryptoparty.org/wiki/Oahu.html)]]...
+
+Snowden considère que 4096bit RSA n'est pas suffisant, et avait une clé non standard. Probablement du à l'entropy, mais pas à une faille mathématique.
+Clée en question: [[http://pgp.mit.edu/pks/lookup?op=get&search=0x4C74380AF72D80B3]]
+
+Glenn Greenwald ne voulais pas installer, et n'arrivait à utiliser PGP. D'où l'importance de créer des outils plus faciles à utiliser.
+Avant le début des leaks, OTR était utilisé par Laura Poitras pour discuter avec Snowden. OTR est considéré comme un moyen sûr aujourd'hui de com. (site d'OTR : [[https://otr.cypherpunks.ca/]] ) Principalement car :
+  * **Deniability possible :** on peut forger à postiori une discussion. GPG signe tout, du coup impossible de dire "C'est pas moi" ou de forger une signature.
+    * Protège aussi Snowden, car la discution aurais pu être forgée par Laura!
+  * **Perfect Forward Secrecy : **impossible de retourner dans le temps si aujourd'hui on me vole ma clé
+
+À l'époque, aucune connaissance des capacités de la NSA, et donc Laura & Glenn n'on pas changé leurs manières d'utiliser un ordinateur. Les congélateurs sont de très bonne cage de faraday ;) Redphone à  été utilisé entre Barton Gellman et Laura/Glenn/Snowden pour avoir une conf sécure
+
+Mais à l'époque le serveur jabber du CCC a été attaqué, "peut être" pour bloquer les convs L/S/G. Du coup G et Janine (Guardian) ont décidé d'utiliser Cryptocat, mais un poil plus tard on à découvert des failles dans cryptocat. C'était au final une erreur d'OPSEC. Utiliser un programme jeune est un soucis.
+
+Laura, HK -> Berlin. Quasiment tout sera étudié là bas. Beaucoup de chose sont choquante. (Infection carte intel, appel de drone automatique dans certain pays). À partir de là, utilisation de Tails, uniquement booté par CD. Arrets d'utilisation du wifi. Ils utilisaient des T60 modifié (micro, caméra déssoudée, réseau off, en tournant coreboot). Les documents ne se sont jamais retrouvé ailleurs qu'une machine airgapped. Pour envoyer des docs ils s'envoyaient des disques durs, ça minimise l'interception, mais ça n'est pas forcement la panacé.
+
+En rapport avec le sujet des courbes elliptiques utilisées en cryptographie, cette vidéo de Numberphile [[https://www.youtube.com/watch?v=ulg_AHBOIQU]]
+
+Pond : [[https://pond.imperialviolet.org/]]
+
+==== Videos des presentations "To Serve and Infect" - Chaos Computer Club - Decembre 2013 ====
+C'est vraiment des "must see"!
+
+*To Protect And Infect - The militarization of the Internet [30c3] [[http://www.youtube.com/watch?v=sW-N7qQU-tA]]
+*Jacob Applebaum: To Protect And Infect, Part 2 [30c3] [[http://www.youtube.com/watch?v=vILAlhwUgIU]]
