@@ -1,5 +1,16 @@
 ====== Séances passées ======
 
+===== #3 =====
+
+[[participer/3|Séance qui a eu lieu au Colab de Fribourg]], 23 personnes présentes !
+Présentation réalisées:
+
+  * Introduction
+  * Extension Firefox pour la vie privée
+  * Sécurité des smartphone
+  * Actualités et vie privé
+  * Snowden leak et sécurité opérationnelle
+
 ===== #2 =====
 
 [[participer/2|Séance qui a eu lieu à la Fonderie 11]], une quinzaine de personnes en tout. Présentation réalisées:
