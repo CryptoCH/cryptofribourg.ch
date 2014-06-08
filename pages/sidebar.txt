@@ -2,4 +2,5 @@
     * [[participer/4|Prochaine CryptoParty]]
     * [[seancespassees/start|Séances passées]]
   * [[aider|Aider !]]
-  * [[actualites|Actualités]]
+  * [[actualites|Actualités !]]
+  * [[https://list.cryptofribourg.ch/|Forum !]]
