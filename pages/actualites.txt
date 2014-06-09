@@ -40,7 +40,7 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 
 ===== NSA, GCHQ =====
 
-  * **05.06.2014** [[http://www.nextinpact.com/news/87942-prism-presse-chinoise-sen-prend-tout-a-coup-aux-entreprises-americaines.htm|Prism : la presse chinoise s'en prend tout à coup aux entreprises américaines]
+  * **05.06.2014** [[http://www.nextinpact.com/news/87942-prism-presse-chinoise-sen-prend-tout-a-coup-aux-entreprises-americaines.htm|Prism : la presse chinoise s'en prend tout à coup aux entreprises américaines]]
   * **02.06.2014** [[http://www.nextinpact.com/news/87837-la-nsa-collecte-millions-photos-visages-chaque-jour.htm|La NSA collecte des millions de photos de visages chaque jour]]
   * **23.05.2014** [[http://www.nextinpact.com/news/87718-wikileaks-revele-nom-pays-espionne-par-nsa-afghanistan.htm|Wikileaks révèle le nom du pays espionné par la NSA : l'Afghanistan]]
   * **20.05.2014** [[http://www.developpez.com/actu/71389/Meme-le-reseau-Tor-n-echapperait-pas-a-la-surveillance-de-la-NSA-et-du-GCHQ-selon-un-expert-en-securite/|Même le réseau Tor n'échapperait pas à la surveillance de la NSA et du GCHQ]]
@@ -50,4 +50,4 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
 ===== Evénements =====
 
   * **05.06.2014** [[http://www.nextinpact.com/news/87957-un-an-apres-prism-reset-the-net-veut-mobiliser-autour-vie-privee.htm|Un an après Prism, Reset the Net veut mobiliser autour de la vie privée]  
-  * **09.05.2014** [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]]
+  * **09.05.2014** [[http://www.developpez.com/actu/70973/Journee-mondiale-du-mot-de-passe-Microsoft-Samsung-Intel-Security-et-d-autres-celebrent-l-edition-2014/|Journée mondiale du mot de passe]
