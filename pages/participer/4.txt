@@ -22,3 +22,5 @@ Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.co
 **Si vous souhaitez aider à la mise en place** de l'événement, rendez-vous 15 à 20 minutes avant le début.
 
 **Si vous souhaitez proposez un atelier ou une présentation**, vous pouvez vous inclure dans la liste ci-dessous avec votre nom/pseudo/persona et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :)
+
+  * [[https://www.ethack.org|EthACK]]: Introduction à [[https://bitmessage.org/wiki/Main_Page|BitMessage]] (présentation (~5 minutes + questions), atelier pour lancer le service, envoi des premiers messages)
