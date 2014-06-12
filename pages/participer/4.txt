@@ -24,3 +24,4 @@ Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.co
 **Si vous souhaitez proposez un atelier ou une présentation**, vous pouvez vous inclure dans la liste ci-dessous avec votre nom/pseudo/persona et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :)
 
   * [[https://www.ethack.org|EthACK]]: Introduction à [[https://bitmessage.org/wiki/Main_Page|BitMessage]] (présentation (~5 minutes + questions), atelier pour lancer le service, envoi des premiers messages)
+  * [[http://www.scoci.ch|SCOCI]]: Présentation du service de coordination de la lutte contre la criminalité sur Internet (SCOCI)
