@@ -25,3 +25,4 @@ Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.co
 
   * [[https://www.ethack.org|EthACK]]: Introduction à [[https://bitmessage.org/wiki/Main_Page|BitMessage]] (présentation (~5 minutes + questions), atelier pour lancer le service, envoi des premiers messages)
   * [[http://www.scoci.ch|SCOCI]]: Présentation du service de coordination de la lutte contre la criminalité sur Internet (SCOCI)
+  * [[https://twitter.com/Mayeu|Mayeu]]: Introduction & Accueil, ateliers chiffrement d'e-mails avec GPG
