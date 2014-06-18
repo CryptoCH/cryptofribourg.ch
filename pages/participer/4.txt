@@ -15,7 +15,7 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
 
 La séance commencera par une introduction sur les CryptoParty leurs buts et roles, puis nous passeront à des ateliers en petit groupe autours de plusieurs outils. Et pour les plus motivés d'entre nous, nous finirons pas une séries de présentations et discussions.
 
-Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]].
+Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]]. Pas besoin de connaissance technique pour participer !
 
 ===== Aider =====
 
@@ -25,4 +25,4 @@ Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.co
 
   * [[https://www.ethack.org|EthACK]]: Introduction à [[https://bitmessage.org/wiki/Main_Page|BitMessage]] (présentation (~5 minutes + questions), atelier pour lancer le service, envoi des premiers messages)
   * [[http://www.scoci.ch|SCOCI]]: Présentation du service de coordination de la lutte contre la criminalité sur Internet (SCOCI)
-  * [[https://twitter.com/Mayeu|Mayeu]]: Introduction & Accueil, ateliers chiffrement d'e-mails avec GPG
+  * [[https://twitter.com/Mayeu|Mayeu]]: Introduction & Accueil, atelier chiffrement d'e-mails avec GPG
