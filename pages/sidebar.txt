@@ -3,5 +3,5 @@
     * [[seancespassees/start|Séances passées]]
   * [[aider|Aider !]]
   * [[actualites|Actualités !]]
-  * [[presentations/start|Presentations !]]
+  * [[presentations/start|Présentations !]]
   * [[https://list.cryptofribourg.ch/|Forum !]]
