@@ -1,3 +1,4 @@
 ====== Liste des présentations des CrpytoParty ======
 
-  * [[https://github.com/CryptoCH/presentation/blob/master/introduction/introduction.html|Introduction]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/introduction.html.zip|Introduction]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/gpg.html.zip|GPG]]
