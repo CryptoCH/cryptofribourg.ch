@@ -1,0 +1,26 @@
+====== CryptoParty #4 ======
+
+La CryptoParty de Fribourg est de retour en juin pour sa quatrième édition toujours au [[http://colab-fribourg.ch/|Colab de Fribourg]] qui à la gentillesse de nous héberger gratuitement. Cafés, thés, bières et pâtes sur place.
+
+Très facile à trouver, allez au Café Villars, et montez au premier étage :)
+
+Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelligents, votre bonne humeur, et tous vos amis :)
+
+  * **Amener :**
+      * votre ordinateur portable
+      * votre smartphone
+      * vos amis :)
+  * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
+  * **Date et horaire :** Samedi 19 juillet à partir de 17h00
+
+La séance commencera par une introduction sur les CryptoParty leurs buts et roles, puis nous passeront à des ateliers en petit groupe autours de plusieurs outils. Et pour les plus motivés d'entre nous, nous finirons pas une séries de présentations et discussions.
+
+Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]]. Pas besoin de connaissance technique pour participer !
+
+===== Aider =====
+
+**Si vous souhaitez aider à la mise en place** de l'événement, rendez-vous 15 à 20 minutes avant le début.
+
+**Si vous souhaitez proposez un atelier ou une présentation**, vous pouvez vous inclure dans la liste ci-dessous avec votre nom/pseudo/persona et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :)
+
+  * [[https://twitter.com/Mayeu|Mayeu]]: Introduction & Accueil, atelier chiffrement d'e-mails avec GPG
