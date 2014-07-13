@@ -13,7 +13,7 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
   * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
   * **Date et horaire :** Samedi 19 juillet à partir de 17h00
 
-La séance commencera par une introduction sur les CryptoParty leurs buts et roles, puis nous passeront à des ateliers en petit groupe autours de plusieurs outils. Et si la motivation est toujours là, nous finirons pas une séries de présentations et discussions.
+La séance commencera par une introduction sur les CryptoParty leurs buts et rôles, puis nous passeront à des ateliers en petit groupe autour de plusieurs outils. Et si la motivation est toujours là, nous finirons par une série de présentations et discussions.
 
 Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]]. Pas besoin de connaissance technique pour participer !
 
