@@ -1,6 +1,6 @@
 ====== CryptoParty #5 ======
 
-La CryptoParty de Fribourg est de retour en juin pour sa quatrième édition toujours au [[http://colab-fribourg.ch/|Colab de Fribourg]] qui à la gentillesse de nous héberger gratuitement. Cafés, thés, bières et pâtes sur place.
+Même pendant les vacances on ne s'arrête pas, la cinquième édition aura donc lieu en juillet et toujours au [[http://colab-fribourg.ch/|Colab de Fribourg]] !
 
 Très facile à trouver, allez au Café Villars, et montez au premier étage :)
 
@@ -13,7 +13,7 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
   * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
   * **Date et horaire :** Samedi 19 juillet à partir de 17h00
 
-La séance commencera par une introduction sur les CryptoParty leurs buts et roles, puis nous passeront à des ateliers en petit groupe autours de plusieurs outils. Et pour les plus motivés d'entre nous, nous finirons pas une séries de présentations et discussions.
+La séance commencera par une introduction sur les CryptoParty leurs buts et roles, puis nous passeront à des ateliers en petit groupe autours de plusieurs outils. Et si la motivation est toujours là, nous finirons pas une séries de présentations et discussions.
 
 Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]]. Pas besoin de connaissance technique pour participer !
 
