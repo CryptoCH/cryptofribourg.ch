@@ -1,5 +1,16 @@
 ====== Séances passées ======
 
+===== #4 =====
+
+[[participer/4|Séance qui a eu lieu au Colab de Fribourg]], ~25 personnes présentes !
+Présentation réalisées:
+
+  * Introduction
+  * Présentation du service de coordination de la lutte contre la criminalité sur Internet (SCOCI)
+  * Atelier sur les mots de passe
+  * Atelier sur Bitmessage
+  * Atelier sur GPG pour l'e-mail
+
 ===== #3 =====
 
 [[participer/3|Séance qui a eu lieu au Colab de Fribourg]], 23 personnes présentes !
