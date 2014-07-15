@@ -25,3 +25,4 @@ Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.co
 
   * [[https://twitter.com/Mayeu|Mayeu]]: Introduction & Accueil, atelier chiffrement d'e-mails avec GPG
   * [[https://ethack.org/|EthACK]]: atelier Tor (Win, Mac, Linux, Android)
+  * [[https://www.daoro.net/|Daoro]] : ajouter des extensions à son navigateur web pour améliorer sa vie privée (atelier pratique, env. 30min)
