@@ -2,3 +2,4 @@
 
   * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/introduction.html.zip|Introduction]]
   * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/gpg.html.zip|Atelier GPG]]
+  * [[https://www.daoro.net/pistage|Atelier "se prémunir du pistage sur internet"]]
