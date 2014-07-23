@@ -10,7 +10,8 @@ Retrouvez sur cette page toutes les actualités sur la vie privée, la sécurit�
   * **19.05.2014** [[http://www.nextinpact.com/news/87608-didier-deschamps-poursuit-compagne-samir-nasri-pour-son-tweet.htm|Didier Deschamps poursuit la compagne de Samir Nasri pour son tweet]]
 
 ===== Outils =====
-
+  * **23.07.2014** [[http://boingboing.net/2014/07/22/eff-unveils-secure-sharing-fr.html|L'EFF annonce un OS pour routeur WIFI, orienté partage de connexion, sécurité et respect de la vie privée]]
+  * **22.07.2014** [[https://www.eff.org/privacybadger|Privacy Badger, extension firefox bloquant le tracking, annoncé par l'EFF]]
   * **04.06.2014** [[http://www.wired.com/2014/06/nsa-bug-iphone|Utiliser le mode DFU pour eviter attaques sur le baseband de iPhone]]
   * **03.06.2014** [[http://www.nextinpact.com/news/87885-truecrypt-pourrait-revivre-en-suisse-avec-fork.htm|TrueCrypt pourrait revivre en Suisse avec un fork]]
   * **28.05.2014** [[http://www.nextinpact.com/news/87817-arret-brutal-truecrypt-ce-que-on-peut-en-dire-pour-moment.htm|Arrêt brutal de TrueCrypt : ce que l'on peut en dire pour le moment]]
