@@ -1,9 +1,19 @@
 ====== Séances passées ======
 
+===== #5 =====
+
+[[participer/5|Séance qui a eu lieu au Colab de Fribourg]], ~20 personnes présentes !
+Ateliers réalisés:
+
+  * Introduction
+  * Atelier sur Tor
+  * Atelier sur GPG pour chiffrer ses e-mails
+  * Atelier sur les plugins pour améliorer sa vie privée avec Firefox.
+
 ===== #4 =====
 
 [[participer/4|Séance qui a eu lieu au Colab de Fribourg]], ~25 personnes présentes !
-Présentation réalisées:
+Ateliers réalisés:
 
   * Introduction
   * Présentation du service de coordination de la lutte contre la criminalité sur Internet (SCOCI)
