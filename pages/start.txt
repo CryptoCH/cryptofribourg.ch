@@ -40,7 +40,7 @@ Un forum et une mailing list publiques sont disponibles à l'adresse [[https://l
 
 ====== Dates passées ======
 
- * **#5 Samedi 19 juillet**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/5|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
+  * **#5 Samedi 19 juillet**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/5|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
   * **#4 Samedi 21 juin**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/4|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
   * **#3 Samedi 24 Mai**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/3|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTqkx?m=&node=2653437571|OpenStreetMap]].
   * **#2 Samedi 26 Avril**, à la Fonderie 11 à partir de 16h30, [[participer/2|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeR03P?layers=N&m=&way=123442196|OpenStreetMap]].
