@@ -18,8 +18,6 @@ Pour participer, il vous suffit de venir avec votre ordinateur portable, voir sm
 
 ====== Prochaines Dates ======
 
-  * **Samedi 19 juillet**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/5|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
-
 ======Apprendre!======
 
 Ça s'apprend! A quel niveau de détails dépend de nos intentions. Si par exemple on apprécie peu l'idée d'être en permanence surveillé, tout usage de cryptographie, même simple, apportera une amélioration. Si par contre on cherche à être protégé au maximum, il faudra apprendre et comprendre les outils de cryptographie à un niveau de détail beaucoup plus approfondi.
@@ -42,7 +40,8 @@ Un forum et une mailing list publiques sont disponibles à l'adresse [[https://l
 
 ====== Dates passées ======
 
-  * **Samedi 21 juin**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/4|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
-  * **Samedi 24 Mai**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/3|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTqkx?m=&node=2653437571|OpenStreetMap]].
-  * **Samedi 26 Avril**, à la Fonderie 11 à partir de 16h30, [[participer/2|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeR03P?layers=N&m=&way=123442196|OpenStreetMap]].
-  * **Samedi 22 mars**, École d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) - Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]] Entrez par la porte B/C ou C/D
+ * **#5 Samedi 19 juillet**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/5|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
+  * **#4 Samedi 21 juin**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/4|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
+  * **#3 Samedi 24 Mai**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/3|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTqkx?m=&node=2653437571|OpenStreetMap]].
+  * **#2 Samedi 26 Avril**, à la Fonderie 11 à partir de 16h30, [[participer/2|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeR03P?layers=N&m=&way=123442196|OpenStreetMap]].
+  * **#1 Samedi 22 mars**, École d'Ingénieurs et d'Architectes de Fribourg, salle C0015 à partir de 16h30 (rez de chaussée) - Plan : [[http://www.openstreetmap.org/?mlat=46.79268&mlon=7.16023#map=18/46.79268/7.16023|OpenStreetMap]] Entrez par la porte B/C ou C/D
