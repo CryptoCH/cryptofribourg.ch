@@ -1,6 +1,6 @@
 ====== Ressources ======
 
-Cette page rassemble les ressources principales (en Français si possible) qui
+Cette page rassemble les ressources principales (en français le plus possible) qui
 vous permettrons d'en apprendre plus :)
 
 Cela dit, ne suivez pas aveuglement n'importe quelle ressource. La sécurité
@@ -25,17 +25,9 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
 ===== Sur Internet =====
 
-  * **[[https://guide.boum.org/|Guide d'autodéfense numérique]]**,
-    [[https://guide.boum.org/tomes/1_hors_connexions/|tome 1]] &
-    [[https://guide.boum.org/tomes/2_en_ligne/|tome 2]]. //Le guide
-    d'autodéfense numérique// est séparé en deux parties, une concernant
-    l'utilisation d'un ordinateur hors ligne (non connecté à un réseau), et
-    l'autre à l'utilisation en ligne. On a la chance d'avoir en français l'un
-    des guides les plus complet sur le sujet !
+  * **[[https://guide.boum.org/|Guide d'autodéfense numérique]]**, [[https://guide.boum.org/tomes/1_hors_connexions/|tome 1]] & [[https://guide.boum.org/tomes/2_en_ligne/|tome 2]]. //Le guide d'autodéfense numérique// est séparé en deux parties, une concernant l'utilisation d'un ordinateur hors ligne (non connecté à un réseau), et l'autre à l'utilisation en ligne. On a la chance d'avoir en français l'un des guides les plus complet sur le sujet !
 
-  * **[[https://ethack.org/|EthACK]], l'un des rares sites d'actualités Suisse
-    en langue française sur les sujets de vie privée et décortiquant certains
-    nouveaux outils de chiffrement et de protection de vie privée.
+  * **[[https://ethack.org/|EthACK]]**, l'un des rares sites d'actualités Suisse en langue française sur les sujets de vie privée et décortiquant certains nouveaux outils de chiffrement et de protection de vie privée.
 
   * **[[http://www.cryptoparty.in/documentation/handbook|The CryptoParty Handbook]]**, (en anglais). Un guide réalisé par de multiples personnes participants aux CryptoParty dans le monde entier.
 
