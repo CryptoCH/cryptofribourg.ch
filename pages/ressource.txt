@@ -1,0 +1,47 @@
+====== Ressources ======
+
+Cette page rassemble les ressources principales (en Français si possible) qui
+vous permettrons d'en apprendre plus, ou d'avoir des références une fois lâchés
+dans la nature :)
+
+Cela dis, ne suivez pas aveuglement les ressources si dessous. La sécurité
+informatique est un monde en constante évolution, et les outils valides hier
+ne le seront peut-être plus demain. Vérifiez toujours la date de mise à jour
+d'une ressource, entre 6 mois et 1 an certain outils peuvent ne plus être
+considéré comme sûr!
+
+Gardez toujours à l'esprit la chose suivante: **le plus important n'est pas de
+maitriser des dizaines d'outils, mais de comprendre //pourquoi// utiliser tel
+type d'outils dans certain cas, et d'être toujours critique face aux outils et
+usage.**
+
+N'hésitez donc pas à poser des questions, par exemple sur notre
+[[https://list.cryptofribourg.ch|forum]], ou durant les CryptoParty.
+
+===== Ateliers et présentations fait à Fribourg =====
+
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/introduction.html.zip|Introduction]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/gpg.html.zip|Atelier GPG]]
+  * [[https://www.daoro.net/pistage|Atelier "se prémunir du pistage sur internet"]]
+
+===== Sur Internet =====
+
+  * **[[https://guide.boum.org/|Guide d'autodéfense numérique]]**,
+    [[https://guide.boum.org/tomes/1_hors_connexions/|tome 1]] &
+    [[https://guide.boum.org/tomes/2_en_ligne/|tome 2]]. //Le guide
+    d'autodéfense numérique// est séparé en deux parties, une concernant
+    l'utilisation d'un ordinateur hors ligne (non connecté un réseau), et
+    l'autre à l'utilisation en ligne. On a la chance d'avoir en Français l'un
+    des guides les plus complet sur le sujet !
+
+  * **[[https://ethack.org/|EthACK]], l'un des rares sites d'actualités Suisse
+    en langue Française sur les sujets de vie privée, et décortiquant certains
+    nouveaux outils de chiffrement et de protection de vie privée.
+
+  * **[[http://www.cryptoparty.in/documentation/handbook|The CryptoParty Handbook]]**, (en anglais). Un guide réalisé par de multiple personnes participants aux CryptoParty dans le monde entier.
+
+===== Ajouter des ressources =====
+
+Si vous avez de bon liens, ou document qui manque sur cette page, n'hésitez pas
+à les ajouter ! Vous pouvez vous créer un comptes, ou utiliser le compte
+anonyme disponible [[https://cryptofribourg.ch/start#editer_le_wiki|ici]].
