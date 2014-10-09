@@ -1,5 +1,15 @@
 ====== Séances passées ======
 
+===== #6 =====
+
+[[participer/6|Séance qui a eu lieu au Wallriss]], ~9 personnes présentes !
+Ateliers réalisés:
+
+  * (courte) Introduction
+  * Atelier sur Cryptocat
+  * Atelier sur les plugins pour améliorer sa vie privée avec Firefox.
+  * Atelier sur Tor
+
 ===== #5 =====
 
 [[participer/5|Séance qui a eu lieu au Colab de Fribourg]], ~20 personnes présentes !
