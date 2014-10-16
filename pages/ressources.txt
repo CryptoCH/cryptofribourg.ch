@@ -19,9 +19,11 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
 ===== Ateliers et présentations fait à Fribourg =====
 
-  * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/introduction.html.zip|Introduction]]
-  * [[https://github.com/CryptoCH/presentation/releases/download/2014-06-21/gpg.html.zip|Atelier GPG]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/introduction.html.zip|Slide d'introduction]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/gpg.html.zip|Slide de l'atelier GPG]]
   * [[https://www.daoro.net/pistage|Atelier "se prémunir du pistage sur internet"]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/La.gestion.des.mots.de.passe.pdf|Slide de l'atelier sur la gestion des mots de passe]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/tor.html.zip|Slide de l'atelier sur Tor]]
 
 ===== Sur Internet =====
 
