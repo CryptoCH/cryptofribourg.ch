@@ -34,6 +34,10 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
   * **[[http://www.cryptoparty.in/documentation/handbook|The CryptoParty Handbook]]**, (en anglais). Un guide réalisé par de multiples personnes participants aux CryptoParty dans le monde entier.
 
+  * **[[https://www.datareg.admin.ch/WebDatareg/search/search.aspx?lang=fr | Datareg]]**, le moteur de recherche des fichiers de données personnelles en Suisse.
+
+  * **[[http://sdv-konsumenteninfo.ch/fr/francais/listes-robinson/ | Listes Robinsons]]**, le site pour signifier que vous ne voulez pas que les communes donnent vos données, ou que vous ne voulez pas de publicités nominatives (voir aussi [[http://sdv-konsumenteninfo.ch/fr/francais/liste-rouge-du-marketing-par-telephone/ | ici ]] pour la liste rouge du marketing téléphonique).
+
 ===== Ajouter des ressources =====
 
 Si vous avez de bon liens ou documents qui manque sur cette page, n'hésitez pas
