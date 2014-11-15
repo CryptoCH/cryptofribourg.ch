@@ -1,6 +1,6 @@
 ====== CryptoParty #8 ======
 
-Mieux vaut tard que jamais ! On est loin du troisième samedi du mois, mais la prochaine Cryptoparty aura lieu le samedi 29 novembre au [[http://colab-fribourg.ch/|Colab de Fribourg]] !
+Mieux vaut tard que jamais ! On est loin du troisième samedi du mois, mais la prochaine Cryptoparty aura lieu le **samedi 29 novembre** au [[http://colab-fribourg.ch/|Colab de Fribourg]] !
 
 Toujours aussi facile à trouver, allez au Café Villars, et montez au premier étage :)
 
@@ -13,7 +13,7 @@ Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelli
       * votre smartphone
       * vos amis :)
   * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
-  * **Date et horaire :** Samedi novembre à partir de 17h00
+  * **Date et horaire :** Samedi 29 novembre à partir de 17h00
 
 Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]].
 
