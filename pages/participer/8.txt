@@ -27,4 +27,4 @@ Pad pour la prise de note commune : https://lite4.framapad.org/p/cryptofribourg7
 
   * **[[https://twitter.com/Mayeu|Mayeu]]**: Présentation d'introduction, ateliers possibles: **Tor**/**GPG**/**Cryptocat**/**Vie privée et navigateurs internet**/**gérer ses mots de passe**
 
-  * **[[https://twitter.com/subtruth|kl4v]] et al.**: **Reprendre le contrôle de ses outils ou Ce qu'implique et ce que coûte un remplacement de Gmail, iButt, etc., dans la pratique**
+  * **[[https://twitter.com/subtruth|kl4v]] et al.**: **Reprendre le contrôle de ses outils ou Ce qu'implique un remplacement de Gmail, iButt, etc., dans la pratique**
