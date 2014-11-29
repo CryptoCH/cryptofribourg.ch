@@ -37,7 +37,7 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
   * **[[http://www.cryptoparty.in/documentation/handbook|The CryptoParty Handbook]]**, (en anglais). Un guide réalisé par de multiples personnes participants aux CryptoParty dans le monde entier.
 
-  * **[[http://www.framablog.org/index.php/post/2014/11/19/ce-que-google-sait-de-vous/|Ce que Google sait de vous… parce que vous le lui donnez]]**, Un bref article qui ne fait que réunir et rassembler commodément des liens vers des ressources qui ne sont nullement secrètes. C’est au contraire tout à fait ouvertement que Google met à votre disposition ce qu’il sait de vous.
+  * **[[https://www.framablog.org/index.php/post/2014/11/19/ce-que-google-sait-de-vous|Ce que Google sait de vous… parce que vous le lui donnez]]**, Un bref article qui ne fait que réunir et rassembler commodément des liens vers des ressources qui ne sont nullement secrètes. C’est au contraire tout à fait ouvertement que Google met à votre disposition ce qu’il sait de vous.
 
 ===== Ajouter des ressources =====
 
