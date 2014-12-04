@@ -19,7 +19,7 @@ Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.co
 
 Proposition d'atelier ou présentation:
 
-  * Présentation d'introduction ([[https://twitter.com/Mayeu|Mayeu)
+  * Présentation d'introduction ([[https://twitter.com/Mayeu|Mayeu]])
   * Améliorer sa vie privée sur le web en configurant son navigateur internet
   * Gérer ses mots de passes
   * Chat privé avec Cryptocat
