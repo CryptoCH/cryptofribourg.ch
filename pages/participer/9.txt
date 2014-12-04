@@ -1,0 +1,33 @@
+====== CryptoParty #9 ======
+
+À peine 2 semaine après la dernière séance, on enchaîne directement avec la séance de Noël ! Je ne pense pas qu'il y aura quoi que ça soit lié à Noël cela dit ! Cette séance aura encore une fois lieu au [[http://colab-fribourg.ch/|Colab de Fribourg]] et est programmée pour le 13 décembre.
+
+Toujours aussi facile à trouver, allez au Café Villars, et montez au premier étage :)
+
+Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelligents, votre bonne humeur, et surtout toutes vos questions ! Divers ateliers seront proposés autour des sujets et outils liés à la vie privée de nos jours. Il n'y a pas de programme détaillé puisque que tous cela à lieu en fonction des personnes présentes qui proposent des ateliers. Généralement on commence par une rapide introduction de ce que sont les Cryptoparty/Café vie privée ainsi que leurs buts, puis on réalise les ateliers pratique en petit groupe.
+
+Évidemment **aucune** connaissances techniques n'est requise pour participer, et absolument tout le monde est la bienvenue !
+
+  * **Amener :**
+      * votre ordinateur portable
+      * votre smartphone
+      * vos amis :)
+  * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
+  * **Date et horaire :** Samedi 13 décembre à partir de 17h00
+
+Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]].
+
+Proposition d'atelier ou présentation:
+
+  * Présentation d'introduction ([[https://twitter.com/Mayeu|Mayeu)
+  * Améliorer sa vie privée sur le web en configurant son navigateur internet
+  * Gérer ses mots de passes
+  * Chat privé avec Cryptocat
+  * Fonctionnement et usage de Tor
+  * Chiffrement d'e-mail avec GPG
+
+===== Aider =====
+
+**Si vous souhaitez aider à la mise en place** de l'événement, rendez-vous 15 à 20 minutes avant le début.
+
+**Si vous souhaitez proposer un atelier ou une présentation**, vous pouvez l'inclure dans la liste ci-dessus avec (ou sans) votre nom/pseudo/persona et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :) Vous pouvez aussi vous annoncer seulement sur le moment!

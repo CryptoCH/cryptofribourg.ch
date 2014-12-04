@@ -1,5 +1,15 @@
 ====== Séances passées ======
 
+===== #8 =====
+
+[[participer/8|Séance qui a eu lieu au Colab de Fribourg]], ~8 personnes présentes !
+Ateliers réalisés:
+
+  * Introduction
+  * Présentation sur les moyen de minimiser le tracking de Google
+  * Présentation sur Tor et son fonctionnement
+  * Discussion à propos de GPG
+
 ===== #7 =====
 
 [[participer/7|Séance qui a eu lieu au Colab de Fribourg]], ~8 personnes présentes !
