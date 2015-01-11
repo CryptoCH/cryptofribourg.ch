@@ -1,5 +1,9 @@
 ====== Séances passées ======
 
+===== #9 =====
+
+[[participer/9|Séance qui a eu lieu au Colab de Fribourg]], Une séance en tout petit commité ou nous avons principalement discuté de la gestion des mots de passe et de la protection contre le tracking dans les navigateurs web.
+
 ===== #8 =====
 
 [[participer/8|Séance qui a eu lieu au Colab de Fribourg]], ~8 personnes présentes !

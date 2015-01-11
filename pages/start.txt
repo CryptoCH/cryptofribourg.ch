@@ -1,9 +1,9 @@
-====== Une CryptoQuoi ?  ======
+====== Un Café vie privée ?  ======
 
 {{:cp-logo-200x67.png?nolink |}}
-CryptoParty est une initiative mondiale et décentralisée pour aider le grand public à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
+Les Café vie privée (ou //CryptoParty// dans la langue de Shakespeare) sont une initiative mondiale et décentralisée pour aider le grand public à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
 
-Une CryptoParty est :
+Une Café vie privée est :
 
   * libre et gratuite d'accès
   * publique
@@ -12,13 +12,13 @@ Une CryptoParty est :
 
 Toute personne qui est d'accord avec ces principes est la bienvenue.
 
+====== Prochaines Dates ======
+
+  * **Samedi 24 janvier 2015**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/10|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]]. En plus des ateliers habituel, nous diffuseront le documentaire "The Internet's Own Boy" retraçant l'oeuvre et la vie d'Aaron Swartz, qui nous à quitté le 11 janvier 2013.
+
 ====== Participer ======
 
 Pour participer, il vous suffit de venir avec votre ordinateur portable, voir smartphone (il existe aussi des outils de protection de la vie privée pour smartphone). La CryptoParty est publique et gratuite.
-
-====== Prochaines Dates ======
-
-  * **#9 Samedi 13 décembre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/9|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
 
 ======Apprendre!======
 
@@ -41,11 +41,10 @@ Suivez-nous et poser vos questions sur le compte Twitter : [[https://twitter.com
 Un forum et une mailing list publiques sont disponibles à l'adresse [[https://list.cryptofribourg.ch/]].
 
 ====== Dates passées ======
-
-  * **Samedi 29 novembre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/8|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
-
-  * **Samedi 18 octobre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/7|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
-  * **Samedi 20 septembre**, au [[http://wallriss.ch/|Wallriss]], rue Varis 10-12, à partir de 16h. [[participer/6|Toutes les informations ici]]. Plan : [[https://goo.gl/maps/BCBVo|Google Map]]
+  * **#9 Samedi 13 décembre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/9|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
+  * **#8 Samedi 29 novembre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/8|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
+  * **#7 Samedi 18 octobre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/7|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
+  * **#6 Samedi 20 septembre**, au [[http://wallriss.ch/|Wallriss]], rue Varis 10-12, à partir de 16h. [[participer/6|Toutes les informations ici]]. Plan : [[https://goo.gl/maps/BCBVo|Google Map]]
   * **#5 Samedi 19 juillet**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/5|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
   * **#4 Samedi 21 juin**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/4|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
   * **#3 Samedi 24 Mai**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/3|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTqkx?m=&node=2653437571|OpenStreetMap]].

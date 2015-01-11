@@ -1,0 +1,41 @@
+====== Café vie privée #10 ======
+
+2015 est là, bientôt 1 ans que nous organisons des Café vie privée à Fribourg ! On ne vas pas s'arrêter en si bon chemin, et c'est pourquoi nous vous donnons rendez-vous le samedi 24 janvier au [[http://colab-fribourg.ch/|Colab de Fribourg]] à partir de 17h pour une séance un peu spécial, puisque après les ateliers habituel nous diffuseront le documentaire *"The Internet's Own Boy"* présentant la vie et l'oeuvre d'*Aaron Swartz*.
+
+> Aaron Hillel Swartz (né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York) est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+>
+> Swartz s'est impliqué dans le développement du format de flux Web RSS, l'organisation Creative Commons, le framework de site Web web.py et le site d'actualités Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogami.
+>
+> Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et l'activisme. Il a aidé à lancer le Progressive Change Campaign Committee (en) en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig. Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA).
+
+Source : [[https://fr.wikipedia.org/wiki/Aaron_Swartz|Wikipedia]]
+
+Toujours aussi facile à trouver, allez au Café Villars, et montez au premier étage :)
+
+Comme d'habitude, venez avec votre ordinateur portable et autres bidules intelligents, votre bonne humeur, et surtout toutes vos questions ! Divers ateliers seront proposés autour des sujets et outils liés à la vie privée de nos jours. Il n'y a pas de programme détaillé puisque que tous cela à lieu en fonction des personnes présentes qui proposent des ateliers. Généralement on commence par une rapide introduction de ce que sont les Cryptoparty/Café vie privée ainsi que leurs buts, puis on réalise les ateliers pratique en petit groupe.
+
+Proposition d'atelier ou présentation:
+
+  * Présentation d'introduction
+  * Améliorer sa vie privée sur le web en configurant son navigateur internet
+  * Gérer ses mots de passes
+  * Chat privé avec Cryptocat
+  * Fonctionnement et usage de Tor
+  * Chiffrement d'e-mail avec GPG
+
+Évidemment **aucune** connaissances techniques n'est requise pour participer, et absolument tout le monde est la bienvenue !
+
+  * **Amener :**
+      * votre ordinateur portable
+      * votre smartphone
+      * vos amis :)
+  * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
+  * **Date et horaire :** Samedi 24 janvier 2015 à partir de 17h00
+
+Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]].
+
+===== Aider =====
+
+**Si vous souhaitez aider à la mise en place** de l'événement, rendez-vous 15 à 20 minutes avant le début.
+
+**Si vous souhaitez proposer un atelier ou une présentation**, vous pouvez l'inclure dans la liste ci-dessus avec (ou sans) votre nom/pseudo/persona et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème :) Vous pouvez aussi vous annoncer seulement sur le moment!
