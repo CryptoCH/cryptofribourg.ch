@@ -39,6 +39,12 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
   * **[[http://www.framablog.org/index.php/post/2014/11/19/ce-que-google-sait-de-vous|Ce que Google sait de vous… parce que vous le lui donnez]]**, Un bref article qui ne fait que réunir et rassembler commodément des liens vers des ressources qui ne sont nullement secrètes. C’est au contraire tout à fait ouvertement que Google met à votre disposition ce qu’il sait de vous.
 
+===== Films =====
+
+* "The Internet's Own Boy"
+  * Téléchargement sur [[https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz|Internet Archive]]
+  * Sous-titre [[http://www.amara.org/fr/videos/5Mo4oAj1bxOb/fr/766962/|en Français]]
+
 ===== Ajouter des ressources =====
 
 Si vous avez de bon liens ou documents qui manque sur cette page, n'hésitez pas
