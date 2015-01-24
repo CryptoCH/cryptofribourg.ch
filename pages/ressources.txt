@@ -41,9 +41,12 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
 ===== Films =====
 
-* "The Internet's Own Boy"
-  * Téléchargement sur [[https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz|Internet Archive]]
-  * Sous-titre [[http://www.amara.org/fr/videos/5Mo4oAj1bxOb/fr/766962/|en Français]]
+  * "The Internet's Own Boy"
+    * Téléchargement sur [[https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz|Internet Archive]]
+    * Sous-titre [[http://www.amara.org/fr/videos/5Mo4oAj1bxOb/fr/766962/|en Français]]
+
+  * CITIZENFOUR
+      * Effort pour [[https://pad.lqdn.fr/p/citizenfour_transcription|transcrire et traduire le film]]
 
 ===== Ajouter des ressources =====
 
