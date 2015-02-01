@@ -1,0 +1,36 @@
+====== Café vie privée #11 ======
+
+**1 an !** Ça y est, le 21 février ça fera 1 an (moins 1 jour ;) ) que tout les mois ont lieu les Cafés vie privée de Fribourg. Donc rendez-vous une nouvelle fois à partir de 17h au [[http://colab-fribourg.ch/|Colab de Fribourg]], n'hésitez pas à amener de quoi grignoter (on est plus efficace le ventre plein ;) ), les boissons seront fournies par le Colab.
+
+Toujours aussi facile à trouver, allez au Café Villars, et montez au premier étage :) Et comme d'habitude, **venez avec votre ordinateur portable et autres bidules intelligents**, votre bonne humeur, toutes vos questions et parlez en autour de vous !
+
+Divers ateliers seront proposés autour des sujets et outils liés à la vie privée de nos jours. Il n'y a pas de programme détaillé puisque que tous cela à lieu en fonction des personnes présentes qui proposent des ateliers. Généralement on commence par une rapide introduction de ce que sont les Cryptoparty/Café vie privée ainsi que leurs buts, puis on réalise les ateliers pratique en petit groupe.
+
+Possible atelier et/ou présentation:
+
+  * Présentation d'introduction
+  * Améliorer sa vie privée sur le web en configurant Firefox
+  * Bien gérer ses mots de passes
+  * Chat privé avec Cryptocat/OTR
+  * Fonctionnement et usage de Tor
+  * Chiffrement d'e-mail avec GPG
+
+Évidemment **aucune connaissance technique** n'est requise pour participer, et absolument tout le monde est la bienvenue !
+
+  * **Amener :**
+      * votre ordinateur portable
+      * votre smartphone
+      * de quoi grignoter
+      * vos amis :)
+  * **Lieu :** [[http://colab-fribourg.ch/|Colab de Fribourg]], [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|plan]]
+  * **Date et horaire :** Samedi 21 février 2015 à partir de 17h00
+
+Si vous avez des questions, n'hésitez pas à les poser sur [[https://twitter.com/CryptoCH|Twitter]] ou sur le [[https://list.cryptofribourg.ch/|forum]].
+
+===== Aider =====
+
+**Si vous souhaitez aider à la mise en place** de l'événement, rendez-vous 15 à 20 minutes avant le début.
+
+**Si vous souhaitez proposer un atelier ou une présentation**, vous pouvez l'inclure dans la liste ci-dessus avec (ou sans) votre nom/pseudo/persona et ce que vous proposez. Vous pouvez proposer plusieurs sujets sans problème, et vous pouvez proposer quelque chose de déjà proposé :) Vous pouvez aussi vous annoncer seulement sur le moment!
+
+  * Présentation d'introduction, Tor, GPG : [[https://twitter.com/Mayeu|@Mayeu]]

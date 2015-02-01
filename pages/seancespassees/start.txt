@@ -1,5 +1,9 @@
 ====== Séances passées ======
 
+===== #10 =====
+
+[[participer/10|Séance qui a eu lieu au Colab de Fribourg]], une quinzaine de personnes présentes. Séance passer sur une discussion autours de la vie privée, les raisons qui font qu'elle est nécessaire, et l'impact de la surveillance de masse. Puis diffusions du film "The Internet's Own Boy".
+
 ===== #9 =====
 
 [[participer/9|Séance qui a eu lieu au Colab de Fribourg]], Une séance en tout petit commité ou nous avons principalement discuté de la gestion des mots de passe et de la protection contre le tracking dans les navigateurs web.

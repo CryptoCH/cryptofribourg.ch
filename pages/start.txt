@@ -14,7 +14,7 @@ Toute personne qui est d'accord avec ces principes est la bienvenue.
 
 ====== Prochaines Dates ======
 
-  * **Samedi 24 janvier 2015**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/10|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]]. En plus des ateliers habituel, nous diffuseront le documentaire **"The Internet's Own Boy"** retraçant l'oeuvre et la vie d'**Aaron Swartz**, qui nous à quitté le 11 janvier 2013.
+  * **Samedi 21 février 2015**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/11|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
 
 ====== Participer ======
 
@@ -41,6 +41,8 @@ Suivez-nous et poser vos questions sur le compte Twitter : [[https://twitter.com
 Un forum et une mailing list publiques sont disponibles à l'adresse [[https://list.cryptofribourg.ch/]].
 
 ====== Dates passées ======
+
+  * **#10 Samedi 24 janvier 2015**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/10|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]]. En plus des ateliers habituel, nous diffuseront le documentaire **"The Internet's Own Boy"** retraçant l'oeuvre et la vie d'**Aaron Swartz**, qui nous à quitté le 11 janvier 2013.
   * **#9 Samedi 13 décembre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/9|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
   * **#8 Samedi 29 novembre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/8|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
   * **#7 Samedi 18 octobre**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/7|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
