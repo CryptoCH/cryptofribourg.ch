@@ -19,12 +19,12 @@ N'hésitez donc pas à poser des questions, par exemple sur notre
 
 ===== Ateliers et présentations fait à Fribourg =====
 
-  * [[https://github.com/CryptoCH/presentation/releases/download/2015-01-24/introduction.pdf.gz|Slide d'introduction]]
-  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/gpg.html.zip|Slide de l'atelier GPG]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2015-01-24/introduction.pdf.gz|Slides d'introduction]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/gpg.html.zip|Slides de l'atelier GPG]]
   * [[https://www.daoro.net/pistage|Atelier "se prémunir du pistage sur internet"]]
-  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/La.gestion.des.mots.de.passe.pdf|Slide de l'atelier sur la gestion des mots de passe]]
+  * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/La.gestion.des.mots.de.passe.pdf|Slides de l'atelier sur la gestion des mots de passe]]
   * [[https://github.com/CryptoCH/presentation/releases/download/2014-10-16/tor.html.zip|Slide de l'atelier sur Tor]]
-  * [[https://ethack.org/static/docs/fr_polesud-1-donnees-personnnelles-20.09.2014.pdf|Slide de la présentation "Les données personnelles"]]
+  * [[https://ethack.org/static/docs/fr_polesud-1-donnees-personnnelles-20.09.2014.pdf|Slides de la présentation "Les données personnelles"]]
     * [[https://www.youtube.com/watch?v=tSjs47Uu7o8|Video de la présentation (Youtube)]], enregistrée par le [[http://www.linux-gull.ch/|GULL]] à l'occasion d'un cours sur le sujet.
     * [[https://www.datareg.admin.ch/WebDatareg/search/search.aspx?lang=fr | Datareg]], le moteur de recherche des fichiers de données personnelles en Suisse.
     * [[http://sdv-konsumenteninfo.ch/fr/francais/listes-robinson/ | Listes Robinsons]], le site pour signifier que vous ne voulez pas que les communes donnent vos données, ou que vous ne voulez pas de publicités nominatives (voir aussi [[http://sdv-konsumenteninfo.ch/fr/francais/liste-rouge-du-marketing-par-telephone/ | ici ]] pour la liste rouge du marketing téléphonique).
