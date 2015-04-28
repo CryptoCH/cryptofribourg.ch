@@ -15,7 +15,7 @@ Il n'y a pas de programme fixé pour les ateliers, puisqu'il vont dépendre des 
   * Chiffrement d'e-mail avec GPG
   * Chiffrement de disque dur/clé usb
 
-Évidemment **aucune connaissance technique** n'est requise pour participer, et absolument tout le monde est la bienvenue !
+Évidemment **aucune connaissance technique** n'est requise pour participer, et absolument tout le monde est le bienvenu !
 
   * **Amener :**
       * votre ordinateur portable
