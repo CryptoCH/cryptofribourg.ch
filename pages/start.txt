@@ -16,10 +16,10 @@ Toute personne qui est d'accord avec ces principes est la bienvenue.
 
   * **Quand ?**  \\ Samedi 30 janvier 2016, de 15h30 à 16h30. \\ \\
   * **Où ?**  \\ [[http://osm.org/go/0CZCem9F?m=|Haute école d’ingénierie et d’architecture Fribourg]], salle B30.20. \\ \\
-  * **A quel sujet ?**  \\ Présentation des outils pour préserver sa vie privée sur Internet. Pour de la pratique, il faudra par contre venir aux Café Vie Privée ;) \\ \\
+  * **A quel sujet ?**  \\ Mini-Café avec présentation d'outils pour préserver sa vie privée sur Internet. Pour de la pratique, il faudra surement revenir aux autres Café Vie Privée ;) \\ \\
   * **Pour qui ?**  \\ Tout public. Aucune compétence préalable n’est nécessaire pour participer. \\ \\
   * **Note :**  \\ Pour profiter au mieux de cet atelier, prenez votre notebook et/ou votre smartphone. \\ \\
-  * Ce Café Vie Privée est organisé en lien avec les Free Software Days dont vous pouvez consulter le  [[https://fri-software-days.ch/images/misc/FlyerFSD2016.pdf|Programme complet]], qui propose également un plan d'accès.
+  * Ce Café Vie Privée est organisé en lien avec les Fri Software Days dont vous pouvez consulter le  [[https://fri-software-days.ch/images/misc/FlyerFSD2016.pdf|Programme complet]], qui propose également un plan d'accès.
 
 ====== Participer ======
 
