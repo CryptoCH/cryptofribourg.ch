@@ -3,10 +3,10 @@
 {{:cp-logo-200x67.png?nolink |}}
 Les Café vie privée (ou //CryptoParty// dans la langue de Shakespeare) sont une initiative mondiale et décentralisée pour aider le grand public à appréhender et utiliser les outils de cryptographie qui aide à protéger sa vie privée sur Internet, et/ou dans l'espace physique. **AUCUNE** compétence préalable n'est nécessaire pour participer (hormis celle de savoir allumer son ordinateur :) ).
 
-Une Café vie privée est :
+Un Café vie privée est :
 
-  * libre et gratuite d'accès
-  * publique
+  * libre et gratuit d'accès
+  * public
   * non commerciale et non alignée politiquement
   * contre toutes formes de discrimination et de harcèlement sexuel
 
@@ -23,13 +23,14 @@ Toute personne qui est d'accord avec ces principes est la bienvenue.
 
 ====== Participer ======
 
-Pour participer, il vous suffit de venir avec votre ordinateur portable, voir smartphone (il existe aussi des outils de protection de la vie privée pour smartphone). La CryptoParty est publique et gratuite.
+Pour participer, il vous suffit de venir avec votre ordinateur portable, voir smartphone (il existe aussi des outils de protection de la vie privée pour smartphone). Un Café vie privée est public et gratuit.
 
 ======Apprendre!======
 
 Ça s'apprend! A quel niveau de détails dépend de nos intentions. Si par exemple on apprécie peu l'idée d'être en permanence surveillé, tout usage de cryptographie, même simple, apportera une amélioration. Si par contre on cherche à être protégé au maximum, il faudra apprendre et comprendre les outils de cryptographie à un niveau de détail beaucoup plus approfondi.
 
 Voici [[ressources|quelques ressources]] à votre disposition.
+
 ====== Editer le wiki ======
 
 N'importe qui peut créer un compte et créer des pages sur ce wiki. Ce site n'enregistre pas votre IP. Si vous ne souhaitez par créer de comptes, vous pouvez utiliser le compte anonyme suivant (retirer les guillemets) : “anonymous”/“long passphrases with fünn¥ ©ħæræ¢ŧæ®ß”
@@ -47,6 +48,7 @@ Suivez-nous et poser vos questions sur le compte Twitter : [[https://twitter.com
 Un forum et une mailing list publiques sont disponibles à l'adresse [[https://list.cryptofribourg.ch/]].
 
 ====== Dates passées ======
+
   * **#13 Samedi 30 janvier 2016**, à la [[http://osm.org/go/0CZCem9F?m=|Haute école d’ingénierie et d’architecture Fribourg]]. Mini-Café avec présentation d'outils pour préserver sa vie privée sur Internet. Pour de la pratique, il faudra surement revenir aux autres Café Vie Privée ;)
   * **#12 Samedi 28 mars 2015**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/12|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]]
   * **#11 Samedi 21 février 2015**, au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars à partir de 17h00, [[participer/11|Toutes les informations ici]]. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]].
