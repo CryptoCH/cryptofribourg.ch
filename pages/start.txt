@@ -14,12 +14,12 @@ Toute personne qui est d'accord avec ces principes est la bienvenue.
 
 ====== Prochain Café Vie Privée ======
 
-  * **Quand ?**  \\ Samedi 30 janvier 2016, de 15h30 à 16h30. \\ \\
-  * **Où ?**  \\ [[http://osm.org/go/0CZCem9F?m=|Haute école d’ingénierie et d’architecture Fribourg]], salle B30.20. \\ \\
-  * **A quel sujet ?**  \\ Mini-Café avec présentation d'outils pour préserver sa vie privée sur Internet. Pour de la pratique, il faudra surement revenir aux autres Café Vie Privée ;) \\ \\
-  * **Pour qui ?**  \\ Tout public. Aucune compétence préalable n’est nécessaire pour participer. \\ \\
-  * **Note :**  \\ Pour profiter au mieux de cet atelier, prenez votre notebook et/ou votre smartphone. \\ \\
-  * Ce Café Vie Privée est organisé en lien avec les Fri Software Days dont vous pouvez consulter le  [[https://fri-software-days.ch/images/misc/FlyerFSD2016.pdf|Programme complet]], qui propose également un plan d'accès.
+  * **Quand ?** Samedi 27 février 2016, de 17 heures à 19 heures.
+  * **Où ?**  Au [[http://colab-fribourg.ch/|Colab de Fribourg]] au dessus du Café Villars. Plan : [[http://osm.org/go/0CZCeTouw?m=&node=2922943562|OpenStreetMap]]
+  * **A quel sujet ?**  Programme à venir, mais surement outils de bases
+  * **Pour qui ?** Tout public. Aucune compétence préalable n’est nécessaire pour participer. 
+  * **Note :** Pour profiter au mieux des ateliers, prenez votre ordinateur portable et/ou votre smartphone.
+  * **Détails, questions, discussions,** [[https://list.cryptofribourg.ch/t/prochain-cafe-vie-privee-samedi-27-fevrier-2016/301|sur notre forum !]]
 
 ====== Participer ======
 
